@@ -1,9 +1,10 @@
 $schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
+  title: AI Hardware Architecture Course Notes
   structure:
     - type: space
       key: ai-hw-architecture
       title: AI Hardware Architecture
       path: /
       content:
-        directory: ./
+        directory: ./documentation
