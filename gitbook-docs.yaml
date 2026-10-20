@@ -6,5 +6,6 @@ site:
       key: ai-hw-architecture
       title: AI Hardware Architecture
       path: /
+      default: true
       content:
         directory: ./documentation
